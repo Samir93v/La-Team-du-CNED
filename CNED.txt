@@ -1,0 +1,3 @@
+Je suis en bonne voie pour réussir mes examens du BTS Services-Informatiques-aux-Organisations grâce au CNED
+Je commence à comprendre Git
+Ce texte a été ajouté dans la branche nouvelleBranche
